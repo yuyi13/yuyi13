@@ -7,8 +7,8 @@
 
 ### 🏹 Targets in 2022
 
-- 📖 Submit a manuscript to the Remote Sensing of Environment (RSE)
-- 📘 Submit a dataset at the Earth System Science Data (ESSD)
+- 📖 Submit a manuscript to the Remote Sensing of Environment (RSE) in the mid of the year
+- 📘 Submit a dataset to the Earth System Science Data (ESSD) by the end of the year
 
 ### 📐 Some Languages and Tools that I Used
 
