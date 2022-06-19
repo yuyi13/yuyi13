@@ -2,13 +2,13 @@
 
 - 👨‍🎓 I’m a PhD student at ANU/CSIRO
 - 👜 I’m working on hyper-resolution (i.e. 100 m) soil moisture modelling
-- 📚 I'm interested in remote sensing, soil moisture, land surface and hydrological modelling
+- 📚 I'm interested in remote sensing, soil moisture, and land surface modelling
 - 📫 Contact me at: yi.yu1@anu.edu.au
 
 ### 🏹 Targets in 2022
 
 - 📖 Submit a manuscript to the Remote Sensing of Environment (RSE)
-- 📘 Publish a dataset at the Earth System Science Data (ESSD)
+- 📘 Submit a dataset at the Earth System Science Data (ESSD)
 
 ### 📐 Some Languages and Tools that I Used
 
