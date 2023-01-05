@@ -1,14 +1,15 @@
 ### Hi 👋 I'm Yi
 
-- 👨‍🎓 I’m a PhD student at ANU/CSIRO
-- 👜 I’m working on hyper-resolution (i.e. 100 m) soil moisture modelling
+- 👨‍🎓 I’m a PhD student at ANU Fenner School of Environment & Society and CSIRO Agriculture and Food
+- 👜 I’m working on high-resolution and large-scale modelling of land surface variables using techniques like data fusion and machine learning
 - 📚 I'm interested in remote sensing, soil moisture, and land surface modelling
 - 📫 Contact me at: yi.yu1@anu.edu.au
 
-### 🏹 Targets in 2022
+### 🏹 Targets in 2023
 
-- 📖 Submit a manuscript to the Remote Sensing of Environment (RSE) in the mid of the year
-- 📘 Submit a dataset to the Earth System Science Data (ESSD) by the end of the year
+- 📖 Submit a few prepared manuscripts to several targeted journals, including Remote Sensing of Environment, ISPRS Journal of Photogrammetry and Remote Sensing, Journal of Hydrology, and Science of The Total Environment
+- 📖 Attend the EGU conference in Vienna, Austria, in April
+- 📘 Complete the mid-term review as a PhD milestone (before June, hopefully)
 
 ### 📐 Some Languages and Tools that I Used
 
