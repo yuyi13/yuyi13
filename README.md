@@ -9,7 +9,7 @@
 
 - 📖 Submit two or three manuscripts to several targeted journals, including Remote Sensing of Environment, ISPRS Journal of Photogrammetry and Remote Sensing, Journal of Hydrology, and Science of The Total Environment
 - 📖 Attend the EGU conference in Vienna, Austria, in April
-- 📘 Complete the mid-term review as a PhD milestone (before June, hopefully)
+- 📘 Complete the mid-term review as a PhD milestone requested by the School (before June, hopefully)
 
 ### 📐 Some Languages and Tools that I Used
 
