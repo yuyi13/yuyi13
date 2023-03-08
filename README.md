@@ -7,9 +7,12 @@
 
 ### 🏹 Targets in 2023
 
-- 📖 Submit two or three manuscripts to several targeted journals, including Remote Sensing of Environment, ISPRS Journal of Photogrammetry and Remote Sensing, Journal of Hydrology, and Science of The Total Environment
-- ✈️ Attend the EGU conference in Vienna, Austria, in April
-- 📘 Complete the mid-term review as a PhD milestone requested by the School (before June, hopefully)
+- 📖 Submit a manuscript (MS) of LST data fusion to Remote Sensing of Environment (in panel circulation)
+- 📖 MS on Himawari-8 LST calibration (data processing almost done)
+- 📖 MS on soil moisture model averaging (in writing and rescope)
+- 📖 MS on fire induced changes on energy balance (to be submitted to a special issue from Frontiers in Remote Sensing)
+- ✈️ Attend the EGU conference in Vienna, Austria, in April (paperwork done)
+- 📘 Complete the mid-term review as a PhD milestone requested by the School (will do in June)
 
 ### 📐 Some Languages and Tools that I Used
 
