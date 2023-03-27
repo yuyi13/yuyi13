@@ -11,7 +11,7 @@
   - 📖 Submit a manuscript (MS) of LST data fusion to Remote Sensing of Environment (in final review)
   - 📖 MS on Himawari-8 LST calibration (in writing)
   - 📖 MS on soil moisture model averaging (in writing and rescope)
-  - 📖 MS on fire-induced changes on energy balance (to be submitted to a special issue from Frontiers in Remote Sensing)
+  - 📖 MS on fire-induced changes on energy balance (to be submitted to a special issue of Frontiers in Remote Sensing)
 - ✈️ Attend the EGU conference in Vienna, Austria, in April (I'm ready!)
 - 📘 Complete the mid-term review as a PhD milestone requested by the School (in June)
 
