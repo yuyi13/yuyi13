@@ -7,13 +7,13 @@
 
 ### 🏹 Targets in 2023
 
-- Satisfy the PhD graduation requirements, including:
-  - 📖 Submit a manuscript (MS) of LST data fusion to Remote Sensing of Environment (in final review)
+- To satisfy the PhD graduation requirements, including:
+  - 📖 To submit a manuscript (MS) of LST data fusion to Remote Sensing of Environment (in final review)
   - 📖 MS on Himawari-8 LST calibration (in writing)
   - 📖 MS on soil moisture model averaging (in writing and rescope)
   - 📖 MS on fire-induced changes on energy balance (to be submitted to a special issue of Frontiers in Remote Sensing)
-- ✈️ Attend the EGU conference in Vienna, Austria, in April (I'm ready!)
-- 📘 Complete the mid-term review as a PhD milestone requested by the School (in June)
+- ✈️ To attend the EGU conference in Vienna, Austria, in April (I'm ready!)
+- 📘 To complete the mid-term review as a PhD milestone requested by the School (in June)
 
 ### 📐 Some Languages and Tools that I Used
 
