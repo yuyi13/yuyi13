@@ -7,11 +7,11 @@
 
 ### 🏹 Targets in 2023
 
-- Some manuscripts (MSs):
-  - 📖 MS of LST data fusion to Remote Sensing of Environment (submitted)
-  - 📖 MS of Himawari-8 LST calibration (in writing)
-  - 📖 MS of soil moisture model averaging (in writing and rescope)
-  - 📖 MS of fire-induced changes on regional energy balance (to be submitted to a special issue of Frontiers in Remote Sensing)
+- Manuscripts (MSs) to be submitted:
+  - 📖 MS of LST data fusion (RSE; submitted)
+  - 📖 MS of Himawari-8 LST calibration (RSE; in writing)
+  - 📖 MS of soil moisture model averaging (TBC; in writing and rescope)
+  - 📖 MS of fire-induced changes on regional energy balance (Frontiers in Remote Sensing; a quick one)
 - ✈️ To attend the EGU conference in Vienna, Austria, in April (I'm ready!)
 - 📘 To complete the mid-term review as a PhD milestone requested by the School (in June)
 
