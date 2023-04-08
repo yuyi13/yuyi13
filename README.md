@@ -1,7 +1,7 @@
 ### Hi 👋 I'm Yi
 
 - 👨‍🎓 I’m a PhD student at the ANU Fenner School of Environment & Society and CSIRO Agriculture and Food
-- 👜 I’m working on high-resolution and continental-scale modelling of hydrological flux using techniques like data fusion, machine learning and fourier transform
+- 👜 I’m working on high-resolution and continental-scale ecohydrologyical modelling using techniques like data fusion, machine learning and fourier transform
 - 📚 I'm interested in remote sensing, soil moisture, and land surface modelling
 - 📫 Contact me at: yi.yu1@anu.edu.au
 
