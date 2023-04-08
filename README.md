@@ -11,7 +11,7 @@
   - 📖 MS of LST data fusion (RSE; submitted)
   - 📖 MS of Himawari-8 LST calibration (ISPRS; in writing)
   - 📖 MS of soil moisture model averaging (TBC; in writing and rescope)
-  - 📖 MS of fire-induced changes on regional energy balance (Frontiers in Remote Sensing; in experiments)
+  - 📖 MS of fire-induced changes on regional energy balance (Frontiers in Remote Sensing; under experimental design)
 - ✈️ To attend the EGU conference in Vienna, Austria, in April (I'm ready!)
 - 📘 To complete the mid-term review as a PhD milestone requested by the School (in June)
 
