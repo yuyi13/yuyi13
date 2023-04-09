@@ -1,6 +1,6 @@
 ### Hi 👋 I'm Yi
 
-- 👨‍🎓 I’m a PhD student at the ANU Fenner School of Environment & Society and CSIRO Agriculture and Food
+- 👨‍🎓 I’m a PhD student under an academic collaboration between the ANU Fenner School of Environment & Society and CSIRO Agriculture and Food
 - 👜 I’m working on high-resolution and continental-scale ecohydrologyical modelling using techniques like data fusion, machine learning and fourier transform
 - 📚 I'm interested in earth observation, remote sensing, and ecohydrology
 - 📫 Contact me at: yi.yu1@anu.edu.au
