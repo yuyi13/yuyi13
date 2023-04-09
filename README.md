@@ -2,18 +2,8 @@
 
 - 👨‍🎓 I’m a PhD student at the ANU Fenner School of Environment & Society and CSIRO Agriculture and Food
 - 👜 I’m working on high-resolution and continental-scale ecohydrologyical modelling using techniques like data fusion, machine learning and fourier transform
-- 📚 I'm interested in remote sensing, soil moisture, and land surface modelling
+- 📚 I'm interested in earth observation, remote sensing, and ecohydrology
 - 📫 Contact me at: yi.yu1@anu.edu.au
-
-### 🏹 Targets in 2023
-
-- Manuscripts (MSs) to be submitted:
-  - 📖 MS of LST data fusion (RSE; submitted)
-  - 📖 MS of Himawari-8 LST calibration (ISPRS; in writing)
-  - 📖 MS of soil moisture model averaging (TBC; in writing and rescope)
-  - 📖 MS of fire-induced changes on regional energy balance (Frontiers in Remote Sensing; under experimental design)
-- ✈️ To attend the EGU conference in Vienna, Austria, in April (I'm ready!)
-- 📘 To complete the mid-term review as a PhD milestone requested by the School (in June)
 
 ### 📐 Some Languages and Tools that I Used
 
