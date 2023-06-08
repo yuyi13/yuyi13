@@ -2,13 +2,13 @@
 
 - 👨‍🎓 I’m a PhD student under an academic collaboration between the ANU Fenner School of Environment & Society and CSIRO Agriculture and Food
 - 👜 I’m working on high-resolution and continental-scale remote sensing modelling using techniques like data fusion, machine learning and geostatistics
-- 📚 I'm interested in earth observation, remote sensing, and ecohydrology
+- 📚 I'm interested in earth observation, remote sensing, ecohydrology and geostatistics
 - 📫 Contact me at: yi.yu1@anu.edu.au
 
 ### 📐 Some Languages and Tools that I Used
 
-[![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
 [![R Programming](https://img.shields.io/badge/-R%20Programming-3776AB?style=flat&logo=R&logoColor=white)](https://www.r-project.org/)
+[![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
 <br />
 [![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)](https://git-scm.com/)
 [![Github](https://img.shields.io/badge/-Github-181717?style=flat&logo=github&logoColor=white)](https://github.com/)
