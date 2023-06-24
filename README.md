@@ -1,7 +1,7 @@
 ### Hi 👋 I'm Yi
 
-- 👨‍🎓 I’m a PhD student under an academic collaboration between the ANU Fenner School of Environment & Society and CSIRO Agriculture and Food
-- 👜 I’m working on high-resolution and continental-scale remote sensing modelling using techniques like data fusion, machine learning and geostatistics
+- 👨‍🎓 I’m a PhD student under an academic collaboration between the Australian National University (ANU) and the Commonwealth Scientific and Industrial Research Organisation (CSIRO)
+- 👜 I’m working on surface energy balance modelling for continental Australia using techniques like data fusion, machine learning and geostatistics
 - 📚 I'm interested in earth observation, remote sensing, ecohydrology and geostatistics
 - 📫 Contact me at: yi.yu1@anu.edu.au
 
