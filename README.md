@@ -2,7 +2,7 @@
 
 - 👨‍🎓 I’m a PhD student under an academic collaboration between the Australian National University (ANU) and the Commonwealth Scientific and Industrial Research Organisation (CSIRO)
 - 👜 I’m working on surface energy balance modelling for continental Australia using techniques like data fusion, machine learning and geostatistics
-- 📚 I'm interested in earth observation, remote sensing, ecohydrology and geostatistics
+- 📚 I'm interested in earth observation, remote sensing, ecohydrology and AI4Science
 - 📫 Contact me at: yi.yu1@anu.edu.au
 
 ### 📐 Some Languages and Tools that I Used
