@@ -3,7 +3,7 @@
 - 👨‍🎓 I’m a PhD student under an academic collaboration between [ANU](https://fennerschool.anu.edu.au/people/students/yi-yu-0) and [CSIRO](https://people.csiro.au/Y/Y/yi-yu).
 - 👜 I’m working on land surface temperature and soil moisture modelling using techniques like data fusion and machine learning.
 - 📚 I'm interested in earth observation, remote sensing, ecohydrology and geostatistics.
-- 📫 Contact me at: yi.yu1@anu.edu.au
+- 📫 Contact me at: yi.yu.phd@gmail.com
 
 ### 📐 Some Languages and Tools that I Used
 
