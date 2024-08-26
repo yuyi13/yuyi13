@@ -1,8 +1,7 @@
 ### Hi 👋 I'm Yi
 
-- 👨‍🎓 I’m a PhD student under an academic collaboration between [ANU](https://fennerschool.anu.edu.au/people/students/yi-yu-0) and [CSIRO](https://people.csiro.au/Y/Y/yi-yu).
-- 👜 I’m working on land surface temperature and soil moisture modelling using techniques like data fusion and machine learning.
-- 📚 I'm interested in earth observation, remote sensing, ecohydrology and geostatistics.
+- 👨‍🎓 I’m a postdoctoral researcher at the University of Sydney, and a visiting scientist at the Commonwealth Scientific and Industrial Research Organisation ([CSIRO](https://people.csiro.au/Y/Y/yi-yu)).
+- 📚 I'm interested in using data-driven methods to better understand fine-scale land-atmosphere interactions in the context of climate extremes (e.g., drought and heatwave). 
 - 📫 Contact me at: yi.yu.phd@gmail.com
 
 ### 📐 Some Languages and Tools that I Used
