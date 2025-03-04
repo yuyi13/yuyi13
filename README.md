@@ -1,6 +1,6 @@
 ### Hi 👋 I'm Yi
 
-- 👨‍🎓 I’m a postdoctoral researcher at the [University of Sydney](https://precision-agriculture.sydney.edu.au/), and also affiliated the [Commonwealth Scientific and Industrial Research Organisation](https://people.csiro.au/Y/Y/yi-yu)).
+- 👨‍🎓 I’m a postdoctoral researcher at the [University of Sydney](https://precision-agriculture.sydney.edu.au/), and also affiliated the [Commonwealth Scientific and Industrial Research Organisation](https://people.csiro.au/Y/Y/yi-yu).
 - 📚 My research interests include developing hybrid approaches that combine physical and data-driven methods to advance understanding of fine-scale land-atmosphere interactions, particularly in the context of climate extremes such as drought.
 - 📫 Contact me at: yi.yu.phd@gmail.com
 
