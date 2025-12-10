@@ -1,6 +1,6 @@
 ### Hi 👋 I'm Yi
 
-- 👨‍🎓 I’m a postdoc (and an upcoming associate lecturer) at the [University of Sydney](https://www.sydney.edu.au/agriculture/).
+- 👨‍🎓 I’m an associate lecturer at the [University of Sydney](https://www.sydney.edu.au/agriculture/).
 - 📚 My research interests focus on developing hybrid approaches that integrate physical and data-driven methods to better understand land-atmosphere interactions across various spatiotemporal scales, particularly in the context of climate extremes such as drought.
 - 📫 Contact me at: yi.yu.phd@gmail.com
 
