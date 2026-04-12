@@ -8,5 +8,5 @@
 
 - 👨‍🎓 I’m an associate lecturer at the [University of Sydney](https://profiles.sydney.edu.au/yi.yu1).
 - 🌏 My research interests focus on developing hybrid approaches that integrate physical and data-driven methods to better understand land-atmosphere interactions across various spatiotemporal scales, particularly in the context of climate extremes such as drought.
-- 🌾 I help manage the GitHub Organization Page of Precision Agriculture, Hydrology & Geoinformation Science Laboratory ([**PAHGISL@USYD**](https://github.com/PAHGISL)), where we collate a suite of repositories for ecohydrology and soils.
+- 🛰️ I help manage the GitHub Organization Page of the Precision Agriculture, Hydrology & Geoinformation Science Laboratory ([**PAHGISL@USYD**](https://github.com/PAHGISL)), where we collate a suite of repositories for ecohydrology and soils.
 - 📫 Contact me at: yi.yu1@sydney.edu.au
